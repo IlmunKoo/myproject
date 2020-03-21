@@ -20,8 +20,8 @@ from selenium.webdriver.support import wait
 from selenium.webdriver.support.select import Select
 
 #시작 전 주의사항: 내 예약내역에 예약하려는 티켓과 동일한 예약대기내역이 없어야 함
-KORAIL_ID = '1469169741'
-KORAIL_PW = 'dlfans1564!'
+KORAIL_ID = '아이디'
+KORAIL_PW = '비밀번호'
 
 People_count = '어른 4명'
 #인원수:_어른 n명 형식으로 따옴표 안에 넣을 것
